@@ -1,0 +1,6 @@
+boto3   # AWS SDK for Python
+secrets
+pandas
+pyspark
+awsglue
+botocore
