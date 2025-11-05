@@ -2,5 +2,7 @@
   "bucket_name": "g16-capstone-iiitj",
   "region": "eu-north-1",
   "glue_role": "AWSGlueServiceRole-ETL",
-  "source_path": "s3://g16-capstone-iiitj/input_file/denormalized_brazilian_dataset.csv"
+  "source_path": "s3://g16-capstone-iiitj/input_file/denormalized_brazilian_dataset.csv",
+  "catalog_database": "sales_ecommerce_db",
+  "crawler_name": "saransh's-data-crawler"
 }
